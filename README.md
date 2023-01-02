@@ -16,3 +16,7 @@ Additional
 
 ### Bottom view
 ![bot](https://user-images.githubusercontent.com/121053019/210188477-46ee4ffd-fd63-42a3-b25c-a78df54dbcf7.png)
+
+
+### Schematic
+![sch](https://user-images.githubusercontent.com/121053019/210188582-b482775e-e0e3-49d0-b3b7-5cbd5632fa7b.png)
